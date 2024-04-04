@@ -1,0 +1,16 @@
+D:\Proje\C#\FinalProject\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Proje\C#\FinalProject\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Proje\C#\FinalProject\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Proje\C#\FinalProject\DataAccess\bin\Debug\net8.0\Entities.dll
+D:\Proje\C#\FinalProject\DataAccess\bin\Debug\net8.0\Entities.pdb
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\Proje\C#\FinalProject\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
